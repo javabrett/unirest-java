@@ -1,3 +1,6 @@
+# dist is precise while older JDKs are required, see https://docs.travis-ci.com/user/reference/trusty/#JVM-(Clojure,-Groovy,-Java,-Scala)-images
+dist: precise
+
 language: java
 
 jdk:
